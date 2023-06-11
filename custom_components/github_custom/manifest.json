@@ -1,10 +1,10 @@
 {
   "domain": "github_custom",
   "name": "Github Custom",
-  "codeowners": ["@boralyl"],
+  "codeowners": ["@smithmg7"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/boralyl/github-custom-component-tutorial",
+  "documentation": "https://github.com/smithmg7/github-custom-component-tutorial",
   "iot_class": "cloud_polling",
   "requirements": ["gidgethub[aiohttp]==5.2.1", "cryptography==39.0.0"],
   "version": "1.0.2"
